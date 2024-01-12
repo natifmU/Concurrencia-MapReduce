@@ -1,10 +1,9 @@
 # Concurrencia-MapReduce
-Programación Concurrentey Distribuida
+Programación Concurrente y Distribuida
 
 
 Implementar un modelo MapReduce que permita interpretar los log de salida de una aplicación
 basada en servicios API REST, los log tienen una salida como la que se muestra a continuación:
-
 
 <img width="651" alt="Captura de Pantalla 2024-01-12 a las 6 01 07 p  m" src="https://github.com/natifmU/Concurrencia-MapReduce/assets/150955864/2c9282a5-7ffc-4b03-a000-4a67ebb1db84">
 
